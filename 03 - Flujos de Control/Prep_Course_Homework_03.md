@@ -41,6 +41,8 @@ for n in range(1, a+1):
 
 6) Utilizar un ciclo while para realizar el factorial de un número guardado en una variable, sólo si la variable contiene un número entero mayor a 0
 
+num = 12
+
 
 
 7) Crear un ciclo for dentro de un ciclo while
