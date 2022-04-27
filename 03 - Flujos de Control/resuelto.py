@@ -45,14 +45,19 @@ num = 12
 
 i = 1
 
-while (i < 10):
-    for x in range(i, 10+1):
-        print(i)
-        i = i + x
-        if i == 29:
-            break
+# while (i < 10):
+#     for x in range(i, 10+1):
+#         print(i)
+#         i = i + x
+#         if i == 29:
+#             break
 
 # 8) Crear un ciclo while dentro de un ciclo for
+
+# for x in range(i, 10+1):
+#     while (i <= x):
+#         print(i)
+#         i += 1
 
 # 9) Imprimir los números primos existentes entre 0 y 30
 
